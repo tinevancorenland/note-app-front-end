@@ -39,9 +39,9 @@ The results of [Stack Overflow’s annual Developer Survey](https://insights.sta
 **For this assignment I am going to work with react.js.**
 
 ### Sprint 1: Tooling
-[x] Installed [Node.JS and npm](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/) through the terminal - make sure you get a npm version higher than 5.2 to be able to use npx later on.
-[x] Added React Developer Tools as Google Chrome extension
-[x] Use [create-react-app](https://github.com/facebook/create-react-app) to generate an application within my folder through the visual studio code terminal : " npx create-react-app note-app-front-end " 
+- [x] Installed [Node.JS and npm](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/) through the terminal - make sure you get a npm version higher than 5.2 to be able to use npx later on.
+- [x] Added React Developer Tools as Google Chrome extension
+- [x] Use [create-react-app](https://github.com/facebook/create-react-app) to generate an application within my folder through the visual studio code terminal : " npx create-react-app note-app-front-end " 
 
 ### Sprint 2: List page
 When arrive on the main page (note list page), we should see all the differents notes that are in the database.
